@@ -58,6 +58,10 @@ Run the scheduler (in a separate console):
 
 `php artisan schedule:work`
 
+Access the app at http://127.0.0.1:8000]
+Please allow 1 minute for the scheduled job to fetch some data from the external financial data API 
+so it will appear in the dashboard
+
 ## Testing
 
 Run the test suite:
